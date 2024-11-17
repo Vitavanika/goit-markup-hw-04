@@ -343,6 +343,7 @@ h3 {
     border: 1px;
     display: flex;
     align-items: center;
+    justify-content: center;
 }
 
 .icons-link:hover,
@@ -448,7 +449,6 @@ h3 {
 
 .footer-container {
     display: flex;
-    column-gap: 120px;
     align-items: baseline;
 }
 
